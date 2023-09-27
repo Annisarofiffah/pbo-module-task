@@ -1,0 +1,14 @@
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\bin\Debug\net6.0\TugasPraktikum.exe
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\bin\Debug\net6.0\TugasPraktikum.deps.json
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\bin\Debug\net6.0\TugasPraktikum.runtimeconfig.json
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\bin\Debug\net6.0\TugasPraktikum.dll
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\bin\Debug\net6.0\TugasPraktikum.pdb
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.AssemblyInfoInputs.cache
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.AssemblyInfo.cs
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.csproj.CoreCompileInputs.cache
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.dll
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\refint\TugasPraktikum.dll
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.pdb
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\TugasPraktikum.genruntimeconfig.cache
+C:\Users\Annisa\OneDrive\Documents\PBO\Tugas Praktikum\TugasPraktikum\TugasPraktikum\obj\Debug\net6.0\ref\TugasPraktikum.dll

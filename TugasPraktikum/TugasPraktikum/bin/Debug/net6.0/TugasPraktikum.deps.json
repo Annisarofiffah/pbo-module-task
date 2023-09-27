@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TugasPraktikum/1.0.0": {
+        "runtime": {
+          "TugasPraktikum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasPraktikum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
